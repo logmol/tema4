@@ -1,0 +1,55 @@
+.fon{
+	height: 550px;
+	background-image: url(banner.png);
+	padding-top: 70px;
+	background-size: 100% 100%
+}
+
+.zagalovok{
+	height: 150px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
+.parent{
+	height: 150px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	display: flex;
+
+}
+.block{
+	height: 150px;
+	width: 300px;
+	margin-left: 20px;
+	display: flex;
+	background: orange;
+}
+img{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+h2{
+	margin-left: 40px;
+	color: black
+}
+p{
+	color: white;
+	margin-left: 20px;
+	font-size: 12px;
+}
+
+body{
+	color: wait;
+	font-family: arial;
+}
+.h1{
+	color: white
+}
+.flex{
+	display: flex;
+}
